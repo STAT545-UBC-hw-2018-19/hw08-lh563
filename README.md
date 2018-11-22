@@ -7,7 +7,7 @@
 ### Here are the link to the app:
 [BC liquor app](https://lh563.shinyapps.io/myapp/)
 
-### Here are the tasks I completed"
+### Here are the tasks I completed
 1. Add an option to sort the results table by price.
 2. Add an image of the BC Liquor Store to the UI.
 3. Use the DT package to turn the current results table into an interactive table.
